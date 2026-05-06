@@ -7,9 +7,6 @@
 
 - 📫 How to reach me **kvaravindn3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <!--
 **kor1998/kor1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
